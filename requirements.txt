@@ -1,7 +1,6 @@
 fastapi
 virtualenv  
 pymongo==3.11
-"uvicorn[standard]"
 python3 -m venv env
 'pymango[srv]'
 

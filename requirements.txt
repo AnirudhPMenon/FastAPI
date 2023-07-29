@@ -1,5 +1,8 @@
 fastapi
 virtualenv  
+venv env
 pymongo==3.11
+pymango[srv]
+uvicorn[standard]
 
 

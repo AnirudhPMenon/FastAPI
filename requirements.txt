@@ -1,6 +1,5 @@
 fastapi
-virtualenv
-virtualenv venv     
+virtualenv  
 venv/Scripts/activate 
 pymongo==3.11
 --upgrade pip

@@ -57,7 +57,7 @@ starlette==0.27.0
 tensorflow-tensorboard==0.1.8
 tqdm==4.64.1
 typing_extensions==4.7.1
-ujson==5.8.0
+ujson==5.7.0
 urllib3==1.26.13
 utils==1.0.1
 uvicorn==0.23.1

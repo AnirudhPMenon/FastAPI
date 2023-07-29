@@ -1,7 +1,6 @@
 fastapi
 virtualenv  
 pymongo==3.11
---upgrade pip
 "uvicorn[standard]"
 python3 -m venv env
 'pymango[srv]'

@@ -1,5 +1,11 @@
-pip install pipenv
-python -m pip install --upgrade pip
+venv/Scripts/activate 
 pip install fastapi
 pip install virtualenv
+virtualenv venv       
+python -m pip install pymongo==3.11
+python.exe -m pip install --upgrade pip
+pip install "uvicorn[standard]"
+python3 -m venv env
+pip install 'pymango[srv]'
+
 

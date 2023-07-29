@@ -1,6 +1,1 @@
-fastapi
-virtualenv  
-pymongo[tls,srv]
-uvicorn[standard]
-
-
+.

@@ -1,4 +1,5 @@
-/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+pip install pipenv
+python -m pip install --upgrade pip
 pip install fastapi
 pip install virtualenv
 
